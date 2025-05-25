@@ -22,8 +22,7 @@ Trip data related to first quarter of 2019 and 2020.
 **Sample visualization done with ggplot:**
 
 
+![image](https://github.com/user-attachments/assets/ee1fe503-a5fa-4be0-80b5-a5a0af14fbfa)
 
-
-![image](https://github.com/user-attachments/assets/163351d5-f1f7-4ef8-a02f-45e4d4d2d97e)
 
 
