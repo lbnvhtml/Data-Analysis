@@ -10,7 +10,10 @@ Trip data related to first quarter of 2019 and 2020.
 
 ![image](https://github.com/user-attachments/assets/abd052e2-8f56-455a-8fc1-e9f3d40cf618)
 
-![image](https://github.com/user-attachments/assets/f716e2dc-52d7-4227-9bf4-2f882c8c39e8)
+# Loading and Cleaning Data
+
+![image](https://github.com/user-attachments/assets/fddbaa1b-7e94-4b07-be77-5b461f33a6f3)
+
 
 ![image](https://github.com/user-attachments/assets/43751849-1e09-42f5-8dde-9c4b06635327)
 
